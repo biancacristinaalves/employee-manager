@@ -1,0 +1,30 @@
+[
+    {
+        "empId": 1,
+        "empFirstname": "John",
+        "empLastname": "Doe",
+        "empSalary": 45000,
+        "empLevel": "2"
+    },
+    {
+        "empId": 2,
+        "empFirstname": "Ram",
+        "empLastname": "Singh",
+        "empSalary": 25000,
+        "empLevel": "1"
+    },
+    {
+        "empId": 3,
+        "empFirstname": "Nupur",
+        "empLastname": "Dubey",
+        "empSalary": 65000,
+        "empLevel": "3"
+    },
+    {
+        "empId": 4,
+        "empFirstname": "Bianca",
+        "empLastname": "Alves",
+        "empSalary": 70000,
+        "empLevel": "3"
+    }
+]
